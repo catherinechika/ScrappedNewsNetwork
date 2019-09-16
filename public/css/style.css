@@ -1,0 +1,12 @@
+.jumbotron{
+    background: blue !important;
+}
+.snn{
+    color: white;
+    font-size: 140px;
+}
+.nav{
+    margin-left: 30px;
+    float: right;
+    color: white;
+}
